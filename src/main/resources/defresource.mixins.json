@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "tf.ssf.sfort.defresource.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "Mend"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
